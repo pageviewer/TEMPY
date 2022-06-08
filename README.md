@@ -1,2 +1,5 @@
-# TEMPY
-Test Smell Detector for Python
+
+# requirements
+
+sudo apt-get install python3-tk
+
